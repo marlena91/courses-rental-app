@@ -1,4 +1,4 @@
-#CoursesLib - courses rental app
+# CoursesLib - courses rental app
 
 ## About CoursesLib
 
