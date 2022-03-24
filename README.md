@@ -5,5 +5,9 @@
 The application allows you to set up an account in the course rental and choose the appropriate courses for yourself. The user can add and remove courses from his list.
 
 
+![Alt text](public/images/1_2022-03-24 120535.png "Title")
+![Alt text](public/images/2_2022-03-24 120745.png "Title")
+![Alt text](public/images/3_2022-03-24 121038.png "Title")
+![Alt text](public/images/4_2022-03-24 121240.png "Title")
 
-![](public/images/1_2022-03-24 120535.png)![](public/images/2_2022-03-24 120745.png)![](public/images/3_2022-03-24 121038.png)![](public/images/4_2022-03-24 121240.png)
+
